@@ -1,4 +1,4 @@
-﻿# [Eleventy Html5UP Alpha](https://eleventy-html5up-alpha.appseed.us)
+# [Eleventy Html5UP Alpha](https://appseed.us/static-site/eleventy-html5up-alpha)
 
 Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Alpha Design  
 
@@ -14,13 +14,14 @@ Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Alpha 
 
 <br />
 
-![Eleventy Html5UP Alpha - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/eleventy-html5up-alpha-intro.gif?raw=true)
+![Eleventy Html5UP Alpha - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/eleventy-html5up-alpha-intro.gif)
 
 <br />
 
 ## App Links
 
-- [Eleventy Html5UP Alpha](https://eleventy-html5up-alpha.appseed.us) - Live DEMO
+- **[Eleventy Html5UP Alpha](https://eleventy-html5up-alpha.appseed.us)** - Live DEMO
+- **[Eleventy Html5UP Alpha](https://appseed.us/static-site/eleventy-html5up-alpha)** - Product Page
 
 <br />
 
@@ -47,4 +48,4 @@ $ # app is running on http://localhost:4000
 <br />
 
 ---
-[Eleventy Html5UP Alpha](https://eleventy-html5up-alpha.appseed.us) - provided by **AppSeed**
+[Eleventy Html5UP Alpha](https://appseed.us/static-site/eleventy-html5up-alpha) - provided by **AppSeed**
